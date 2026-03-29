@@ -1,16 +1,13 @@
-## Hi there 👋
+VRCをメインに活動している万華鏡にゃんです。
 
-<!--
-**Mangekyou-Myan/Mangekyou-Myan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+マインクラフトでmod開発するために作ったアカウントです。 ただしVRC用ツールなどそれ以外もここで開発すると思われます。
 
-Here are some ideas to get you started:
+個人で活動しているため、更新が遅い、そもそも更新されない。 という状況になる可能性は常にあります。 最も責任感を感じている間は更新し続けるので安心してください。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+バグ報告や相談等、何かお話があればXのDMで連絡してあげます。 しかし反応が数日解決可能性があるため緊急性の高い連絡に関してはメール等でお願いします。 睡眠時間は不定期ですので連絡等された場合は数時間ほど解決可能性があります。
+
+私は暇人で基本的に怒らないのでどんな細かい内容でも話したらDMしていいですよ。 なんだったらmodとか関係なく雑談でもいいくらいですよ。
+
+ここに何を書けばよくわかりませんので今は適当です。
+
+猫なので猫アレルギーの方はご注意ください。
